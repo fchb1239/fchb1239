@@ -9,4 +9,4 @@ Software:
 - [Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-Remember to join https://discord.gg/monkemod
+Remember to join the Gorilla Tag Modding Discord: https://discord.gg/monkemod
