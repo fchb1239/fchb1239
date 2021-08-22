@@ -6,7 +6,7 @@ Check out my Repository's:
 - [Calculators](https://github.com/fchb1239/Calculators) - Making calculators in a bunch of languages. (aiming for 10+)
 
 Software:
-- Visual Studio Community 2019 - [Download](https://visualstudio.microsoft.com/downloads/)
-- Visual Studio Code - [Download](https://code.visualstudio.com/download)
+- [Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/)
+- [Visual Studio Cod](https://code.visualstudio.com/download)
 
 Remember to join https://discord.gg/monkemod
