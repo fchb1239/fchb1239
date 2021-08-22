@@ -7,6 +7,6 @@ Check out my Repository's:
 
 Software:
 - [Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/)
-- [Visual Studio Cod](https://code.visualstudio.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 Remember to join https://discord.gg/monkemod
