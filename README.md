@@ -5,4 +5,8 @@ Check out my Repository's:
 - [ModForTutoiral](https://github.com/fchb1239/ModForTuroial) - Designed to show you the ways of Gorilla Tag modding for PC.
 - [Calculators](https://github.com/fchb1239/Calculators) - Making calculators in a bunch of languages. (aiming for 10+)
 
+Software:
+- Visual Studio Community 2019
+- Visual Studio Code
+
 Remember to join https://discord.gg/monkemod
