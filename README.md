@@ -9,5 +9,5 @@ Software:
 - [Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-My Discord is <b>fchb1239#5358</b> if you need anything.\n
+My Discord is <b>fchb1239#5358</b> if you need anything. \n
 Also remember to join https://discord.gg/monkemod.
