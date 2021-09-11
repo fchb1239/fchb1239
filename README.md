@@ -9,6 +9,4 @@ Software:
 - [Visual Studio Community 2019](https://visualstudio.microsoft.com/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-![](https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded.png) Gib me moni on Ko-fi:
-
 My Discord is <b>fchb1239#5358</b> if you need anything.
