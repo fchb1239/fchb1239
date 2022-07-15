@@ -2,6 +2,7 @@
 
 Check out my <i>good?</i> repositories:
 - [Fish Game](https://github.com/fchb1239/FishGame) - Become fish.
+- [Photon VR](https://github.com/fchb1239/PhotonVR) - Photon VR is a networking library that handles: Cosmetics, colour, names and networking the player itself.
 - [Unity Image Downloader](https://github.com/fchb1239/UnityImageDownloader) - Download GitHub images onto an object in Unity.
 
 Mods:
